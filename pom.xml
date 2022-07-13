@@ -41,6 +41,14 @@
 			<artifactId>spring-graphql-test</artifactId>
 			<scope>test</scope>
 		</dependency>
+		<!-- https://mvnrepository.com/artifact/com.graphql-java/graphql-java -->
+<dependency>
+    <groupId>com.graphql-java</groupId>
+    <artifactId>graphql-java</artifactId>
+</dependency>
+		
+	
+	
 	</dependencies>
 
 	<build>

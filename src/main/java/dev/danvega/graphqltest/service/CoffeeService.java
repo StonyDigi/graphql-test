@@ -1,6 +1,5 @@
 package dev.danvega.graphqltest.service;
 
-import dev.danvega.graphqltest.model.Coffee;
 import dev.danvega.graphqltest.model.Size;
 import org.springframework.stereotype.Service;
 
